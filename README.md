@@ -1,2 +1,2 @@
-# date-picker
+# pin-input
 Created with CodeSandbox

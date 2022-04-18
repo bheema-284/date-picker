@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.datediv {
+  display: flex;
+  gap: 5px;
+}
+#date {
+  border: 1.5px solid blue;
+  height: 30px;
+  width: 130px;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align: center;
+}
